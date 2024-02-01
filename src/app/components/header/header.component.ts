@@ -7,10 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
   title = 'learn_angular';
-  
+
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  toggleAddTask(): void {
+    console.log("Toggled...");
   }
 
 }
