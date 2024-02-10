@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Meeting at School",
-      "day": "May 6th at 1:30pm",
-      "reminder": true
+      "id": "bd8c",
+      "text": "Buy Milk",
+      "day": "sunday 12 ",
+      "reminder": false
     },
     {
-      "id": "2",
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": true
-    },
-    {
-      "id": "c379",
-      "text": "mehboo",
-      "day": "12-12",
-      "reminder": true
+      "id": "c9e9",
+      "text": "Get Fees",
+      "day": "monday 3",
+      "reminder": false
     }
   ]
 }
